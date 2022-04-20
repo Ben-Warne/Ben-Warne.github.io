@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+h1 {
+  color: rgb(218, 127, 48);
+}
+body {
+  background-color: #f6dba5;
+}
+body {
+  font-family: 'Barlow', sans-serif;
+}
+.big-h1 {
+  font-size: 35pt;
+}
+#fancyfont {
+  font-family: 'Lobster', cursive;
+=======
 <body>  {
   background-color: red;
+>>>>>>> 39e6d976c67f410d8a23e51519dba2834fef1b7d
 }
