@@ -4,7 +4,7 @@
   color: orange;
 }
 body {
-  background-color: #f3e6cc;
+  background-color: #cfebef;
 }
 body {
   font-family: 'Barlow', sans-serif;
@@ -17,7 +17,30 @@ body {
 }
 
 .smaller-image {
-  max-width: 50px;
-  max-height: 50px;
+  max-width: 290px;
+  max-height: 290px;
+}
+.margin {
+  width: 100px;
+  height: 100px;
+  margin: 6px solid rgb(23, 160, 188);
+}
+
+.border {
+  width: 100px;
+  height: 100px;
+  border: 6px solid rgb(23, 160, 188);
+}
+.padding {
+  width: 100px;
+  height: 100px;
+  padding: 6px;
+  background: rgb(23, 160, 188);
+}
+.smaller-image {
+  text-align: centre;
+}
+.te-houtaewa {
+  text-align: center;
 }
 </style>
