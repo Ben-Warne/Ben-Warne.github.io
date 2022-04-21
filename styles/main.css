@@ -1,9 +1,10 @@
-<<<<<<< HEAD
-h1 {
-  color: rgb(218, 127, 48);
+<!DOCTYPE css>
+<style>
+.orange-text {
+  color: orange;
 }
 body {
-  background-color: #f6dba5;
+  background-color: #f3e6cc;
 }
 body {
   font-family: 'Barlow', sans-serif;
@@ -13,3 +14,10 @@ body {
 }
 #fancyfont {
   font-family: 'Lobster', cursive;
+}
+
+.smaller-image {
+  max-width: 50px;
+  max-height: 50px;
+}
+</style>
