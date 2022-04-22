@@ -1,4 +1,4 @@
-<!DOCTYPE css>
+
 <style>
 .orange-text {
   color: orange;
@@ -42,5 +42,24 @@ body {
 }
 .te-houtaewa {
   text-align: center;
+}
+a {
+  color: rgb(58, 100, 224);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 17px;
+}
+a:hover {
+  text-decoration:underline;
+  background-color: rgb(138, 176, 226);
+  font-size: 17.5px;
+}
+.centred-text {
+  text-align: center;
+}
+body {
+  margin: 20px;
+  border: 10px solid rgb(59, 116, 190);
+  padding: 20px;
 }
 </style>
