@@ -62,4 +62,10 @@ body {
   border: 10px solid rgb(59, 116, 190);
   padding: 20px;
 }
+.rumple {
+  max-width: 300px;
+  max-height: 300px;
+  text-align: right;
+  float: right;
+}
 </style>
