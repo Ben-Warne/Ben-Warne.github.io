@@ -1,5 +1,5 @@
 
-.orange-text {
+.Green-text {
   color: rgba(171, 206, 16, 0.812);
 }
 
@@ -43,10 +43,6 @@ body {
   background: rgb(23, 160, 188);
 }
 
-.smaller-image {
-  text-align: centre;
-}
-
 .much-smaller-image {
   max-width: 150px;
   max-height: 150px;
@@ -76,7 +72,16 @@ a:hover {
 .rumple {
   max-width: 300px;
   max-height: 300px;
-  text-align: right;
+  float:right;
+}
+
+.right-side-images {
   float: right;
 }
 
+.center-images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
