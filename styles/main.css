@@ -85,3 +85,24 @@ a:hover {
   margin-right: auto;
   width: 50%;
 }
+
+@media screen and (max-width: 320px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
